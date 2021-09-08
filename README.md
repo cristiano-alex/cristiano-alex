@@ -1,4 +1,4 @@
-## Oi! Eu sou o Cristiano Alex
+## Oi! Eu sou o Cristiano
 
 <div>
   <a href="https://github.com/cristiano-alex">
